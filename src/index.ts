@@ -31,8 +31,14 @@ notExistSample();
 */
 
 // import objectSample from "./object/object";
-import typeAliasSample from './object/alias'
+// import typeAliasSample from './object/alias'
 
-//objectSample();
+// //objectSample();
 
-typeAliasSample()
+// typeAliasSample()
+
+import arraySample from './array/array'
+import tupleSample from './array/tuple'
+
+tupleSample()
+arraySample()
