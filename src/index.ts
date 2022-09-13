@@ -37,8 +37,14 @@ notExistSample();
 
 // typeAliasSample()
 
-import arraySample from './array/array'
-import tupleSample from './array/tuple'
+// import arraySample from './array/array'
+// import tupleSample from './array/tuple'
 
-tupleSample()
-arraySample()
+// tupleSample()
+// arraySample()
+
+// import genericsBasicSample from "./generics/basic";
+// import advancedGenericSample from "./generics/adGenerics"
+
+// advancedGenericSample();
+// genericsBasicSample();
