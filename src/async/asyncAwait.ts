@@ -1,4 +1,4 @@
-export default function asyncAwaitSample() {
+export default async function asyncAwaitSample() {
     const url = "https://api.github.com/users/YuyaHirano1994"
 
     type Profile = {
@@ -36,5 +36,10 @@ export default function asyncAwaitSample() {
 
     return json
  
+    }
+
+    const profile = await fetchProfile()
+    if (profile) {
+        console.log("async:" ,profile);
     }
 }

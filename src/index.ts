@@ -57,5 +57,7 @@ notExistSample();
 // callbackSumple();
 
 import promiseSample from "./async/promise";
+import asyncAwaitSample from "./async/asyncAwait"
 
 promiseSample()
+asyncAwaitSample()
