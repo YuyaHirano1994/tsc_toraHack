@@ -43,8 +43,8 @@ notExistSample();
 // tupleSample()
 // arraySample()
 
-// import genericsBasicSample from "./generics/basic";
-// import advancedGenericSample from "./generics/adGenerics"
+import genericsBasicSample from './generics/basic'
+import advancedGenericSample from './generics/adGenerics'
 
-// advancedGenericSample();
-// genericsBasicSample();
+advancedGenericSample()
+genericsBasicSample()
