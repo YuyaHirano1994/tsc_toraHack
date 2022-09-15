@@ -49,6 +49,13 @@ notExistSample();
 // advancedGenericSample()
 // genericsBasicSample()
 
-import interFaceSample from './interface/interface'
+// import interFaceSample from './interface/interface'
 
-interFaceSample()
+// interFaceSample()
+
+// import callbackSumple from "./async/callback";
+// callbackSumple();
+
+import promiseSample from "./async/promise";
+
+promiseSample()
